@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Canon Webcam
+Comment=Use the Canon 1300D as a webcam
+Exec=/home/yourusername/canon-webcam.sh
+Icon=camera-web
+Terminal=true
+Categories=AudioVideo;Video;

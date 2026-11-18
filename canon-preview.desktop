@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Canon Preview
+Comment=Preview window for the Canon webcam
+Exec=/home/yourusername/canon-preview.sh
+Icon=camera-photo
+Terminal=false
+Categories=AudioVideo;Video;
